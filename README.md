@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **.Net Core and React**
 
-- 📫 How to reach me **eray.bydr@hotmail.com*
+- 📫 How to reach me **eray.bydr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
