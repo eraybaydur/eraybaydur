@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<h2 align="center">Hi 👋, I'm Hasan Eray BAYDUR</h2>
+<h2 align="center">Hi 👋, I'm Eray BAYDUR</h2>
 <h4 align="center">A passionate Full Stack .Net developer from Turkey</h4>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
