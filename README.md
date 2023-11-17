@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/erayitellezi" target="blank"><img src="https://img.shields.io/twitter/follow/erayitellezi?logo=twitter&style=for-the-badge" alt="erayitellezi" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **Proses Yazılım**
 
 - 🌱 I’m currently learning **mobile coding**
 
